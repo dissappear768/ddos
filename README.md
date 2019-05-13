@@ -3,8 +3,10 @@ DDOS Attack
 
 #install
 git clone https://github.com/dissappear768/ddos
-cd ddos
-python2 ddos.py
+
+#cd ddos
+
+#python2 ddos.py
 
 #Usage
 cari dulu alamat IP dari Target dan scan port yang terbuka
